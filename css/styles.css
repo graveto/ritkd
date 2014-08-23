@@ -6,6 +6,15 @@
 /* yellow: #DFD337 */
 /* orange: #D58A22 */
 
+body {
+  background-image: url(../images/wood_pattern.png);
+}
+
+.main-container {
+  padding: 50px 50px 0 50px;
+  background-color: #fff;
+}
+
 h1, h2, h3 {
   font-family: 'Fira Sans', sans-serif;
 }
@@ -47,6 +56,10 @@ img.logo {
 /* Carousel */
 .carousel, .carousel .item, .carousel-inner > .item > img {
   height: 700px;
+}
+
+.carousel {
+  margin-bottom: 0;
 }
 
 /* Buttons */
