@@ -70,3 +70,7 @@ img.logo {
 .text-muted-custom {
   color: #629ED8;
 }
+
+.video-container {
+  text-align: center;
+}
