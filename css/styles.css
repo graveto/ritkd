@@ -12,7 +12,7 @@ h1, h2, h3 {
 
 /* Navbar */
 .navbar-inverse {
-  background-color: #C73C44;
+  background-color: #203086;
   border: none;
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3 {
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
   color: #fff;
-  background-color: #82272D;
+  background-color: #629ED8;
 }
 
 .navbar-wrapper {
