@@ -61,3 +61,12 @@ img.logo {
   background-color: #F09B0B;
   border-color: #D58A22;
 }
+
+/* Marketing */
+.marketing h2 {
+  color: #C73C44;
+}
+
+.text-muted-custom {
+  color: #629ED8;
+}
