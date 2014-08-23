@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Fira+Sans:400,500);
+
+/* red: #C73C44 */
+/* dark blue: #203086 */
+/* light blue: #629ED8 */
+/* yellow: #DFD337 */
+/* orange: #D58A22 */
+
+h1, h2, h3 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+/* Navbar */
+.navbar-inverse {
+  background-color: #C73C44;
+  border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+  color: #fff;
+  background-color: #82272D;
+}
+
+/* Carousel */
+.carousel, .carousel .item, .carousel-inner > .item > img {
+  height: 700px;
+}
+
+.btn-default {
+  color: #333;
+  background-color: #E8DB36;
+  border-color: #E8CA08;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+  color: #333;
+  background-color: #F09B0B;
+  border-color: #D58A22;
+}
