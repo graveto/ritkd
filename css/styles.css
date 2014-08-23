@@ -30,6 +30,20 @@ h1, h2, h3 {
   background-color: #82272D;
 }
 
+.navbar-wrapper {
+  margin-top: 60px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  margin-left: 155px;
+}
+
+img.logo {
+  position: absolute;
+  top: -40px;
+  left: 20px
+}
+
 /* Carousel */
 .carousel, .carousel .item, .carousel-inner > .item > img {
   height: 700px;
