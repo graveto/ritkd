@@ -27,7 +27,7 @@ h1, h2, h3 {
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
   color: #fff;
-  background-color: #629ED8;
+  background-color: #428bca;
 }
 
 .navbar-wrapper {
